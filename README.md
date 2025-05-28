@@ -84,10 +84,14 @@ A proposta da disciplina é prática e aplicada, com foco na construção de sis
 │       └── README.md            # Descrição da atividade vivencial no campus
 │
 ├── RespostaDesafio/
-│   └── M2/
-│       ├── Ex1Parte1.cpp        # Solução da primeira parte do desafio do módulo 2
-│       ├── Ex1Parte2.cpp        # Solução da segunda parte do desafio
-│       └── README.md            # Explicação da abordagem/resolução dos exercícios
+│   ├── M2/
+│   │   ├── Ex1Parte1.cpp        # Solução da primeira parte do desafio do módulo 2
+│   │   ├── Ex1Parte2.cpp        # Solução da segunda parte do desafio
+│   │   └── README.md            # Explicação da abordagem/resolução dos exercícios
+│   │
+│   └── M3/
+│       ├── JogoDasCores.cpp     # Solução do desafio do módulo 3
+│       └── README.md            # Explicação da abordagem/resolução do exercício
 │
 └── README.md                    # Descrição geral da disciplina e do projeto
 ```
